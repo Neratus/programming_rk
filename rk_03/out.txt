@@ -1,6 +1,4 @@
-ANdrey : 1 
 Andrey : 2 
-Anime : 1 
-Johny : 1 
-Vader : 2 
-Zephiroth : 1 
+Eve : 2 
+Lionel : 1 
+Zan : 1 
