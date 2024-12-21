@@ -1,0 +1,6 @@
+ANdrey : 1 
+Andrey : 2 
+Anime : 1 
+Johny : 1 
+Vader : 2 
+Zephiroth : 1 
